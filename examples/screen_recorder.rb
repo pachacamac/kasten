@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 # This example uses the Kasten Gem and byzanz (a small cli screencast creator)
 # to let you select an area of your screen and then record a short GIF from it.
 # You need to install byzanz first: sudo apt-get install byzanz
