@@ -1,4 +1,4 @@
-# Kasten
+# Kasten ![Installs](http://img.shields.io/gem/dt/kasten.svg) ![Codeclimate](https://img.shields.io/codeclimate/github/pachacamac/kasten.svg)
 
 Let users draw a Kasten (German for box) in an X environment and get it's dimensions
 
