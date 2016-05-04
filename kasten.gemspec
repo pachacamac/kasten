@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["pachacamac@inboxalias.com"]
 
   spec.summary       = %q{Create a Kasten (German for box)}
-  spec.description   = %q{Let users draw a Kasten (German for box) in an X environment and get it's dimensions}
+  spec.description   = %q{Let users draw a Kasten (German for box) in an X environment and get its dimensions}
   spec.homepage      = "https://github.com/pachacamac/kasten"
   spec.license       = "MIT"
 
