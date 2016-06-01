@@ -1,3 +1,5 @@
 #!/usr/bin/env ruby
+require 'kasten'
+require 'json'
 
-require "kasten"
+puts Kasten.kasten.to_json
